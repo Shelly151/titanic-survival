@@ -85,4 +85,14 @@ Open your browser and navigate to:
 
 ![Streamlit App Screenshot](https://github.com/vidhi-jaju/DockSpace/blob/503edea0a8d31ac50889f767b41cfc13cfd07b51/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App/img2.png)
 
+Conclusion
+
+This project showcases how to deploy a machine learning model using Streamlit and Docker. The model predicts Titanic survival chances based on user input, and containerization ensures smooth deployment and scalability.
+
+🔥 What’s Next?
+
+🚀 Deploy the containerized app on cloud platforms like AWS, GCP, or Vercel.🎨 Enhance the UI with advanced widgets and better visualizations.🧠 Boost model accuracy by incorporating additional feature engineering.⚡ Keep exploring, learning, and innovating! Happy coding! 🐳🚢
+
+
+
 
